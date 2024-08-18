@@ -1,1 +1,1 @@
-# goit-js-hw-02
+GoIT Full Stack Bootcamp - JavaScript HW2
